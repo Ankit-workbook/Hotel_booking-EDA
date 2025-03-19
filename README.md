@@ -18,4 +18,33 @@ Regularly assess competitors' pricing strategies, especially during high-demand 
 Leverage Data Analytics:
 
 Utilize data analytics to identify trends in booking patterns, customer preferences, and cancellation reasons, enabling informed decision-making and targeted marketing strategies.
-By implementing these strategies, hotels can optimize revenue, reduce cancellation rates, and enhance overall customer satisfaction.
+By implementing these strategies, hotels can optimize revenue, reduce cancellation rates, and enhance overall customer satisfaction.![output_24_0](https://github.com/user-attachments/assets/755b845b-0b40-4f3c-8b18-033c6c020f16)
+
+
+
+This bar chart provides an analysis of the reservation status count, specifically comparing the number of canceled and non-canceled reservations. Here's a detailed analysis based on the chart:
+Key Observations:
+
+Non-Canceled Reservations:
+
+The number of reservations that were not canceled is significantly higher than the number of canceled reservations.
+The count is approximately 70,000 or more.
+Canceled Reservations:
+
+The count of canceled reservations is notably lower than non-canceled reservations.
+The approximate count is around 40,000.
+General Trend:
+
+A substantial proportion of reservations were successfully completed or retained, with cancellations forming a smaller, but still significant, portion.
+Implications:
+
+Customer Retention:
+
+The high count of non-canceled reservations indicates strong customer retention or successful booking completion.
+Cancellation Rate:
+
+The cancellation count, while smaller, is still notable and could warrant investigation into reasons for cancellations (e.g., pricing, scheduling, external factors).
+Operational Insights:
+
+If cancellations are preventable, addressing the causes could improve overall revenue and efficiency.![output_17_2](https://github.com/user-attachments/assets/136c2e6a-eb5c-4578-863d-fbb3b7d56822)
+
