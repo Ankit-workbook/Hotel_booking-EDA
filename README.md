@@ -1,50 +1,51 @@
-# Hotel_booking-EDA
-This project conducts an exploratory data analysis (EDA) on hotel booking data to uncover patterns and trends in customer behavior. By examining factors such as booking frequency, cancellation rates, seasonal trends, and customer demographics, the analysis provides actionable insights to inform business decisions and enhance hotel operations.  
+
+**Hotel Reservation Analysis Report**__
 
 
-Based on the analysis of the provided graphs, here are tailored recommendations:
-Implement a Seasonal Pricing Strategy:
+This report provides an analysis of hotel reservation data, focusing on Average Daily Rate (ADR), reservation status, and trends across different hotels. The data reveals insights into cancellation rates, ADR trends over months, and the distribution of reservations between city and resort hotels.
 
-Adjust room rates according to demand fluctuations throughout the year. During peak seasons, increase prices to maximize revenue, and offer competitive rates or promotions during off-peak periods to maintain occupancy.
-Investigate and Address Cancellation Causes:
+Executive Summary
+The analysis reveals key insights into reservation patterns, cancellation rates, and ADR trends. By leveraging these insights, hotels can optimize their pricing, marketing, and retention strategies to improve overall performance.
 
-Analyze the primary reasons for reservation cancellations, such as unmet customer requests or misadvertisement, and implement measures to mitigate these issues.
-Enhance Customer Communication:
-
-Clearly communicate booking policies, amenities, and any potential restrictions to customers to set accurate expectations and reduce cancellations due to misadvertisement.
-Monitor Competitor Pricing:
-
-Regularly assess competitors' pricing strategies, especially during high-demand periods, to ensure your rates remain attractive and competitive.
-Leverage Data Analytics:
-
-Utilize data analytics to identify trends in booking patterns, customer preferences, and cancellation reasons, enabling informed decision-making and targeted marketing strategies.
-By implementing these strategies, hotels can optimize revenue, reduce cancellation rates, and enhance overall customer satisfaction.![output_24_0](https://github.com/user-attachments/assets/755b845b-0b40-4f3c-8b18-033c6c020f16)
+Graphs and Analysis
+1. ADR Analysis
+The ADR chart shows the average daily rate trends over a period. This helps in understanding the pricing strategy and its impact on reservations.
 
 
+2. Reservation Status
+The reservation status chart indicates the number of reservations that were canceled versus those that were not. This is crucial for understanding customer behavior and improving retention strategies.
 
-This bar chart provides an analysis of the reservation status count, specifically comparing the number of canceled and non-canceled reservations. Here's a detailed analysis based on the chart:
-Key Observations:
 
-Non-Canceled Reservations:
+3. Reservation Status by Hotel Type
+This chart compares the number of reservations between city hotels and resort hotels. It helps in identifying which type of hotel is more popular among customers.
 
-The number of reservations that were not canceled is significantly higher than the number of canceled reservations.
-The count is approximately 70,000 or more.
-Canceled Reservations:
 
-The count of canceled reservations is notably lower than non-canceled reservations.
-The approximate count is around 40,000.
-General Trend:
+4. ADR per Month
+The ADR per month chart provides insights into how the average daily rate fluctuates throughout the year, which can be useful for seasonal pricing strategies.
 
-A substantial proportion of reservations were successfully completed or retained, with cancellations forming a smaller, but still significant, portion.
-Implications:
 
-Customer Retention:
+5. Top 10 Countries with Reservation Cancellations
+This chart highlights the top 10 countries with the highest reservation cancellation rates. Understanding this can help in targeting specific regions with better retention strategies.
 
-The high count of non-canceled reservations indicates strong customer retention or successful booking completion.
-Cancellation Rate:
 
-The cancellation count, while smaller, is still notable and could warrant investigation into reasons for cancellations (e.g., pricing, scheduling, external factors).
-Operational Insights:
+Key Findings
+ADR Trends: The average daily rate fluctuates seasonally, with peaks in certain months.
 
-If cancellations are preventable, addressing the causes could improve overall revenue and efficiency.![output_17_2](https://github.com/user-attachments/assets/136c2e6a-eb5c-4578-863d-fbb3b7d56822)
+Reservation Status: A significant portion of reservations are canceled, indicating a need for better retention strategies.
+
+Hotel Type Preference: City hotels receive more reservations compared to resort hotels.
+
+Top Cancellation Countries: Certain countries have higher cancellation rates, requiring targeted marketing efforts.
+
+Recommendations
+Pricing Strategy: Adjust pricing based on ADR trends to maximize revenue during peak months.
+
+Retention Strategies: Implement targeted campaigns to reduce cancellations in high-risk countries.
+
+Hotel Appeal: Focus on improving the appeal of resort hotels to balance reservation distribution.
+
+Customer Engagement: Use personalized offers to retain customers and reduce cancellations.
+
+Conclusion
+The analysis reveals clear patterns in reservation behavior, cancellations, and ADR trends. By leveraging these insights, hotels can optimize their strategies to improve customer satisfaction and revenue.
 
